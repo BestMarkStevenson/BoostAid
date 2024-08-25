@@ -1,5 +1,10 @@
-# BoostAid: https://github.com/BoostAid
-Empowering the global community by providing better jobs and delivering exceptional customer service for everyone. https://github.com/BoostAid. 
-Try out our website: https://boostaidfront-nextjs.vercel.app/en. 
+# BoostAid: https://boostaidfront-nextjs.vercel.app/en
+Empowering the global community by providing better jobs and delivering exceptional customer service for everyone. 
 
-Thank you to all of our developers: Andrew, Andy, Artem, German, Mark, Orlando
+Github: https://github.com/BoostAid. 
+
+Website: https://boostaidfront-nextjs.vercel.app/en. 
+
+Hackathon Submission: https://dorahacks.io/buidl/14967
+
+Huge thanks to all of our developers: Andrew, Andy, Artem, German, Mark, Orlando
