@@ -1,7 +1,7 @@
 # BoostAid: https://boostaidfront-nextjs.vercel.app/en
 Empowering the global community by providing better jobs and delivering exceptional customer service for everyone. 
 
-Github: https://github.com/BoostAid. 
+Organization Github: https://github.com/BoostAid. 
 
 Website: https://boostaidfront-nextjs.vercel.app/en. 
 
